@@ -1,11 +1,10 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github!
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github!<br><br>
 
 I'm Sameer, a full-stack engineer with experience building reliable software, scalable systems, and lately—AI-powered tools. 
 I love clean code, well-architected systems, and making tech a little more human.
 
 🎵 On the side, I'm making electronic <a href='https://open.spotify.com/artist/5Ne8fFIVoXnFwBwiO7fvGb?si=CTW9p7eUTqGKMxwOkMbtxQ'>music</a> and 
-<a href='https://open.spotify.com/show/56qcPE9A13bq7wrEberN23?si=5b40f95fae954f82'>AI podcast</a>.
-🌍 I care about building things that make life easier for people.
+<a href='https://open.spotify.com/show/56qcPE9A13bq7wrEberN23?si=5b40f95fae954f82'>AI podcast</a>.<br>
 
 Thanks for stopping by!</samp></h4>
 
